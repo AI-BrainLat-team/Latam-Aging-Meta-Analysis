@@ -1,11 +1,11 @@
-### Latam-Aging-Meta-Analysis
-### Heterogeneous risk factors impact aging in Latin American populations.
+### Repository: Latam-Aging-Meta-Analysis
+#### Manuscript title: Heterogeneous risk factors impact aging in Latin American populations.
 
-#### Description 
+##### Description 
 
 This repository contains the code to implement the reported results in our manuscript.
 
-#### Contents
+##### Contents
  
 * *R scripts*:
   - Code used for main results can be found in the <code>Results</code> folder.
