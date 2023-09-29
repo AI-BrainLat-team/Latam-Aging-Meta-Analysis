@@ -9,7 +9,7 @@ This repository contains the code to implement the reported results in our manus
  
 * *R scripts*:
   - Code used for main results can be found in the <code>Results</code> folder.
-  - Code used for supplemenmtary results can be founded in the <code>Supp</code> folder.
+  - Code used for supplementary results can be founded in the <code>Supp</code> folder.
 
 * *Data*:
   - Cognition data can be found in the <code>Data/Cog.csv</code> file.
