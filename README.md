@@ -1,5 +1,5 @@
 ### Repository: Latam-Aging-Meta-Analysis
-#### Manuscript title: Heterogeneous risk factors impact aging in Latin American populations.
+#### Healthy aging metanalyses of risk factors across Latin America reveal large heterogeneity and weak predictive models.
 
 ##### Description 
 
